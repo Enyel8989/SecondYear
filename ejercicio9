@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>desafio9</title>
+
+</head>
+<body>
+  <script>
+  function saludar(nombre){
+    console.log("Hola, "+nombre);
+  }
+  saludar("juan");
+  </script>
+</body>
