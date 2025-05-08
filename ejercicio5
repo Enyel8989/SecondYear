@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>desafio5</title>
+
+</head>
+<body>
+  <script>
+    let edad = 20;
+    console.log(edad>=18 && edad<=25);
+
+  </script>
+</body>
