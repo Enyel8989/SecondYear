@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang = "es">
+ <head>
+    <meta charset="utf-8">
+    
+    <title> Guia JavaScript</title>
+ </head>
+  <body>
+
+    <script>
+  //ejercicio2
+  let edad = 16;
+  console.log(edad);
+    </script>
+  </body>
+  </html>
